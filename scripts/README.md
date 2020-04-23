@@ -1,2 +1,0 @@
-# scripts
-Scripts I use
